@@ -1,0 +1,51 @@
+body{
+    background-image: url("img.jpg");
+    font-family: sans-serif;
+}
+h1{
+    color: white;
+    margin-top: 100px;
+    margin-left: 660px;
+   
+
+}
+#mail{
+    width: 300px;
+    border-radius: 100px;
+    margin-left: 50px;
+    margin-top: 40px;
+}
+#pass{
+    width: 300px;
+    border-radius: 20px;
+    margin-left: 50px;
+}
+#form{
+    width: 400px;
+    height: 400px;
+    margin-left: 560px;
+    margin-top: 150px;
+    border: 2px solid #f1faee;
+    border-radius: 15px;
+    
+}
+.floatingInput{
+    color:red;
+    visibility: visible;
+}
+#check{
+    margin-left: 50px;
+    margin-top: 15px;
+}
+#sign{
+    margin-top: 40px;
+    margin-left: 30px;
+
+}
+.link{
+    color: white;
+}
+#login{
+    margin-left: 160px;
+    margin-top: 60px;
+}
